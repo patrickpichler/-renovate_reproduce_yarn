@@ -2,7 +2,7 @@
   "name": "renovate_reproduce_yarn",
   "packageManager": "yarn@3.2.4",
   "dependencies": {
-    "react": "^17.0.0"
+    "react": "18.2.0"
   },
   "workspaces": [
     "packages/*"
