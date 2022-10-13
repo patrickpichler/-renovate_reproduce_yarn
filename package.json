@@ -1,0 +1,4 @@
+{
+  "name": "renovate_reproduce_yarn",
+  "packageManager": "yarn@3.2.2"
+}
