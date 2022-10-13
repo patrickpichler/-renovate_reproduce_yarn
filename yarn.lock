@@ -5,10 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"momentjs@npm:1.0.0":
-  version: 1.0.0
-  resolution: "momentjs@npm:1.0.0"
-  checksum: 2629fdf1dc39bbe01c2b938d5ce0ee4441a91be17f4b7775c6a5bdab965dc6a457887838dab1d38756110aa3c1679da9f3ca6f66fb8af0446c4878074c19902c
+"momentjs@npm:>1.0.0":
+  version: 1.1.17
+  resolution: "momentjs@npm:1.1.17"
+  checksum: f74cac2bca97cae196c11aa79f2027f2b8353d200d701c66c47e54ab4c002cdf78b3c865fe0c4fc5674498cff223f0750fdb512231930d917ae77aef347415d1
   languageName: node
   linkType: hard
 
@@ -16,6 +16,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "renovate_reproduce_yarn@workspace:."
   dependencies:
-    momentjs: 1.0.0
+    momentjs: >1.0.0
   languageName: unknown
   linkType: soft
