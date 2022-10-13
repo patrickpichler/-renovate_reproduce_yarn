@@ -2,10 +2,6 @@
   "name": "renovate_reproduce_yarn",
   "packageManager": "yarn@3.2.2",
   "dependencies": {
-    "momentjs": "^1.0.0"
-  },
-  "engines": {
-    "node": ">=16.14 <17",
-    "npm": ">=8"
+    "react": "^17.0.0"
   }
 }
