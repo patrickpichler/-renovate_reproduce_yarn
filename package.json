@@ -1,4 +1,7 @@
 {
   "name": "renovate_reproduce_yarn",
-  "packageManager": "yarn@3.2.2"
+  "packageManager": "yarn@3.2.2",
+  "dependencies": {
+    "momentjs": "1.0.0"
+  }
 }
