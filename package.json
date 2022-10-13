@@ -2,12 +2,12 @@
   "name": "renovate_reproduce_yarn",
   "packageManager": "yarn@3.2.4",
   "dependencies": {
-    "react": "^17.0.0"
+    "react": "17.0.2"
   },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^6.0.0"
+    "lerna": "6.0.0"
   }
 }
